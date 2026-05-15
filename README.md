@@ -11,5 +11,5 @@ Desenvolvedor Full-Stack com foco em Back-end. Apaixonado por código limpo e so
 ![Disponível](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
 
 ## 🔥 Projetos em Destaque
-- **[Projeto 1]**: Alguns programas desse ano [Link]([https://github.com/SEU_USERNAME/projeto1](https://github.com/Gian3010/programas2025.git)
-- **[Projeto 2]**: Sobre meu projeto de TCC [Link](https://github.com/xorume/bodytech.git)
+- **[Projeto 1]**: Alguns programas desse ano ([https://github.com/SEU_USERNAME/projeto1](https://github.com/Gian3010/programas2025.git)
+- **[Projeto 2]**: Sobre meu projeto de TCC (https://github.com/xorume/bodytech.git)
